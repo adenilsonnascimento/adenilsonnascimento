@@ -50,8 +50,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/adenilsonnascimento/adenilsonnascimento/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="500" src="https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg"  />
+</div>
 
 ###

@@ -53,6 +53,7 @@
 <br clear="both">
 
   <img height="500" src="https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg"  />
+  <img align="left" height="150" src="https://avatars.githubusercontent.com/u/147216196?v=4"  />
 
 
 ###

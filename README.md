@@ -47,8 +47,10 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-<br clear="both">
+
 ### 
+
+<br clear="both">
 
 <div align="center">
   <img height="500" src="https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg"  />

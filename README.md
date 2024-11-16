@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-  <img align="center" height="500" src="https://img.freepik.com/fotos-gratis/vista-traseira-do-programador-trabalhando-a-noite-toda_1098-18697.jpg?semt=ais_hybrid"  />
+  <img align="center" width="100%" height="500" src="https://img.freepik.com/fotos-gratis/vista-traseira-do-programador-trabalhando-a-noite-toda_1098-18697.jpg?semt=ais_hybrid"  />
 
 
 ###

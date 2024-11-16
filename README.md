@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-  <img align="center" width="100%" height="500" src="https://img.freepik.com/fotos-gratis/vista-traseira-do-programador-trabalhando-a-noite-toda_1098-18697.jpg?semt=ais_hybrid"  />
+  <img align="center" width="100%" height="500" src="https://classic.exame.com/wp-content/uploads/2017/09/programac3a7c3a3o.jpg?ims=750x/filters:quality(85):format(webp)"  />
 
 
 ###

@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
 ###
@@ -51,6 +53,3 @@
 <br clear="both">
 
   <img align="center" width="100%" height="500" src="https://classic.exame.com/wp-content/uploads/2017/09/programac3a7c3a3o.jpg?ims=750x/filters:quality(85):format(webp)"  />
-
-
-###
